@@ -1,0 +1,17 @@
+p.leftp {
+  float: left;
+  width: 250px;
+  
+}
+
+h2.righth2 {
+ 
+  float:right;
+  border: 1px solid black;
+}
+
+h3.cont1{
+ border: 1px solid black;
+  width:200px ;
+}
+
