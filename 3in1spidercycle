@@ -1,12 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="3in1.css">
 
-<h1>3-in-1 Spider Cycle</h1>
+  </head>
+  <body>
+    <h1 class="in1">3-in-1 Spider Cycle</h1>
+    
+    <h3 class="in2">3-in-1 Spider Cycle</h3>
+    
+    <p class="in3">Blaster</p>
+    
+    <p class="in4">Packaging</p>
+    
+    <p class="in5">Blaster</p>
+    
+    <h4 class="in6">Release information</h4>
+    
+    <p class="in7">Company
+    Brand / Series
+      Hasbro
+    Nerf
+    Marvel</p>
+    <p class="in8">Release date
+    2018</p>
+    
+    <p class="in9">Shelf status
+    Available<p>
+    
+    <h4 class="in10">Product features</h4>
+    <p class="in11">Stock
+    ammunition type
+      Web Darts</p>
+    
+    <p class="in12">Stock
+    ammunition capacity
+    1</p>
+    
+    <h4 class="in13">Product performance</h4>
+    
+    <p class="in14">Priming mechanism
+      Direct-prime-action</p>
+    
+    <p class="in15">Mode of fire
+    Single-fire</p>
+    
+    <p class="in16">The 3-in-1 Spider Cycle is a Nerf blaster that was released in 2018.</p>
 
-<p>The 3-in-1 Spider Cycle is a Nerf blaster that was released in 2018</p>
+    <h2 class="in17">Contents</h2>
+    
+    <ul class="in18">
+      <li>1	Included contents</li>
+      <li>2	Details</li>
+      <li>2.1	Official description</li>
+      <li>3	Gallery</li>
+      <li>Included contents</li>
+      <li>1 3-in-1 Spider Cycle</li>
+      <li>1 Spider-Man figure</li>
+      <li>2 Web Darts</li>
+    </ul>
+      
+      <h2 class="in19">Details</h2>
+      
+    <p class="in20">The 3-in-1 Spider Cycle is a small Spider-Man playset which features a built-in Nerf blaster. It is based on the Spider-Cycle driven by Spider-Man. The motorcycle can be changed into three different forms; these do not affect the blaster portion of the toy.</p>
 
-<h2>3-in-1 Spider Cycle</h2>
+    <p class="in21">Rather than featuring a standard firing trigger, there is instead a firing button located on top of the motorcycle, behind the driver's seat. A plunger rod sticks out from the rear of the toy.</p>
 
-<p>blaster</p>
+      <p class="in22">It advertises a firing range of up to twenty feet (six meters).</p>
 
-<p>packaging</p>
+      <h4 class="in23">Official description</h4>
 
-<h4>Contents</h4>
+    <h5 class="in24">This is an official description from Amazon.com. Please do not modify it. (view this product's listing)</h5>
+      
+    <p class="in25">Imagine sending Spider-Man into mobile action with the Spider-Man 3-in-1 Spider Cycle, featuring 3 modes of play! With this vehicle, kids can imagine Spider-Man zooming into battle on his cycle, crashing into action on his crawler, or blasting down the bad guys on his launcher vehicle!</p>
+
+  </body>
+</html>
