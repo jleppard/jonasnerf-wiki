@@ -134,9 +134,14 @@ border: 1px solid black;
   width: 180px;
 }
 
-h2.cont19{
+h2.cont17{
   position: absolute;
-  top: 250px;
+  top: 380px;
+
 }
+
+ul.cont18 {
+  position: absolute;
+  top: 411px;
 
 
