@@ -136,12 +136,124 @@ border: 1px solid black;
 
 h2.cont17{
   position: absolute;
-  top: 380px;
+  top: 400px;
 
 }
 
 ul.cont18 {
   position: absolute;
-  top: 411px;
+  top: 434px;
+}
+ h2.cont19 {
+  position: absolute;    
+  top:480px ;  
+  }
 
+hr.cont20 {
+  position: absolute;
+    top:490px ;
+  width:200px ;
+}
 
+p.cont21 {
+  position: absolute;
+  top: 510px;
+  width: 200px;
+}
+
+h4.cont22 {
+  position: absolute;
+  top: 630px;
+  width: 200px;
+}  
+
+p.cont23 {
+  position: absolute;
+  top: 660px;
+  width: 190px;
+  border:1px solid black; 
+    background: orange;
+}
+  
+p.cont24 {
+  position: absolute;
+  top: 800px;
+  width: 390px;
+}
+
+p.cont25 {
+  position: absolute;
+  top: 1050px;
+ width: 390px; 
+}
+
+h4.cont26 {
+  position: absolute;
+  top: 1250px;
+  width: 390px;
+}
+
+p.cont27{
+  position: absolute;
+  top: 1280px;
+  width: 390px;
+}
+
+p.cont28{
+  position: absolute;
+  top: 1330px;
+  width: 390px;
+}
+p.cont29{
+  position: absolute;
+ top:  1380px;
+  width: 390px;
+}
+
+h4.cont30{
+  position: absolute;
+    top:1400px;
+    width:390px;
+}
+
+p.cont31{
+  position: absolute;
+  top: 1440px;
+  width: 390px;
+}
+
+ul.cont32{
+  position: absolute;
+  top: 1480px;
+  width: 390px;
+}
+
+h4.cont33{
+  position: absolute;
+  top: 1540px;
+  width: 390px;
+}
+
+p.cont34{
+  position: absolute;
+  top: 1570px;
+  width: 390px;
+}
+
+h2.cont35{
+  position: absolute;
+  top: 1700px;
+  width: 390px;
+}
+
+ul.cont36{
+  position: absolute;
+  top: 1730px;
+  width: 390px;
+}
+
+p.cont37{
+  position: absolute;
+  top: 1900px;
+  width: 390px;
+}
